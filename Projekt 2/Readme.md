@@ -1,3 +1,7 @@
+# 🗞️ Projekt 2 – AI-Nyhedsassistent
+
+Dette projekt er en del af min AI-portefølje og demonstrerer automatiseret nyhedsindsamling og prioritering baseret på brugerfeedback, integreret via Zapier, Google Sheets og OpenAI.
+
 #🗞️ Projekt 2 – Personlig AI-Nyhedsassistent
 ---
 ##Forretningscase:
