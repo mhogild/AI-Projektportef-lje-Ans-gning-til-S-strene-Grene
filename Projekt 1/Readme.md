@@ -1,12 +1,6 @@
-# 🧠 AI-Projektportefølje – Ansøgning til Søstrene Grene
+# 📘 Projekt 1: Dokumentbaseret Retrieval-Augmented Generation (RAG) Chatbot
 
-Følgende dokument indeholder tre selvstændige projekter jeg for nyligt har lavet, der demonstrerer min evne til at udvikle og implementere AI-løsninger med Python, dokumentforståelse og automatisering.
-
----
-
-## 📘 Projekt 1: Dokumentbaseret Retrieval-Augmented Generation (RAG) Chatbot
-
-### 🔍 Forretningscase
+## 🔍 Forretningscase
 
 Virksomheder bruger enorme mængder tid på at lede efter information i brugermanualer, kontrakter, årsrapporter og interne procedurer. En RAG-chatbot kan:
 
@@ -19,7 +13,7 @@ Virksomheder bruger enorme mængder tid på at lede efter information i brugerma
 
 ---
 
-### 🎯 Relevans for Søstrene Grene
+## 🎯 Relevans for Søstrene Grene
 
 Denne løsning giver Søstrene Grene mulighed for effektivt at:
 
@@ -29,7 +23,7 @@ Denne løsning giver Søstrene Grene mulighed for effektivt at:
 
 ---
 
-### 🧩 Nøglebiblioteker og værktøjer anvendt
+## 🧩 Nøglebiblioteker og værktøjer anvendt
 
 - **[Docling](https://docling-project.github.io/docling/):**
   - Parser PDF’er/Word til markdown for bedre strukturering.
@@ -46,7 +40,7 @@ Denne løsning giver Søstrene Grene mulighed for effektivt at:
 
 ---
 
-### 💬 Eksempel på prompts og svar
+## 💬 Eksempel på prompts og svar
 
 ```text
 🔍 Stil et spørgsmål om årsrapporten (eller skriv 'exit'): Hvad var omsætningen for carlsberg i 2023?
