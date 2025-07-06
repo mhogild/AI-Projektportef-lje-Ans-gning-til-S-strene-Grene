@@ -1,4 +1,5 @@
 #🗞️ Projekt 2 – Personlig AI-Nyhedsassistent
+---
 ##Forretningscase:
 Automatiseret nyhedsindsamling og daglig personaliseret opsummering.
 Der lå ikke den store udfordring i at indsamle nyheder/mails/beskeder/updates, hvilket også anses at være let tilkendeligt via copilot til Microsoft produkter. Udfordringen jeg havde givet mig selv var også at bruge ML til at forbedre relevansen af de nyheder jeg får hver dag.
