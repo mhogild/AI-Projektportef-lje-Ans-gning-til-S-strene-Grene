@@ -31,7 +31,7 @@ Følgende er en kort forklaring af automationen
 | 2    | **Formatter by Zapier** | Formaterer og gemmer dagens dato.                                |
 | 3    | **Google Sheets**       | Lagrer nyhederne (titel, beskrivelse, link, dato) i et regneark. |
 
-##Zapier projekt (Zap b):
+## Zapier projekt (Zap b):
 
 | Trin | Værktøj                   | Funktion                                                                   |
 | ---- | ------------------------- | -------------------------------------------------------------------------- |
