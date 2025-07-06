@@ -18,3 +18,10 @@ Denne AI-drevne løsning leverer:
 
 - **Personlige AI-nyhedsopsamlinger**, fx om markedstendenser, bæredygtighed, branchetrends og leverandørforandringer – vigtig viden for HQ og butikschefer.
 - **Effektivisering af vidensdeling**, så HQ nemt kan dele de tre vigtigste nyheder, uden at medarbejdere skal bruge tid på at finde dem.
+
+## Zapier projekt (Zap a):
+| Trin | Værktøj                 | Funktion                                                         |
+| ---- | ----------------------- | ---------------------------------------------------------------- |
+| 1    | **RSS by Zapier**       | Overvåger flere RSS-feeds for nye AI-relaterede artikler.        |
+| 2    | **Formatter by Zapier** | Formaterer og gemmer dagens dato.                                |
+| 3    | **Google Sheets**       | Lagrer nyhederne (titel, beskrivelse, link, dato) i et regneark. |
