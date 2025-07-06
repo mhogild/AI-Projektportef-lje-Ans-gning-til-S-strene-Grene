@@ -1,4 +1,4 @@
-# AI-Projektportef-lje-Ans-gning-til-S-strene-Grene
+# AI-Projektportefølje-Ansøgning-til-Søstrene-Grene
 💬 Projekt 3 – Automatisk kundedialog med Manychat og Zapier
 🔍 Forretningscase
 Manuel bookinghåndtering er tidskrævende. Denne løsning:
