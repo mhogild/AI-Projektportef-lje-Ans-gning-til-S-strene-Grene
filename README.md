@@ -1,27 +1,8 @@
 # AI-Projektportefølje-Ansøgning-til-Søstrene-Grene
-💬 Projekt 3 – Automatisk kundedialog med Manychat og Zapier
-🔍 Forretningscase
-Manuel bookinghåndtering er tidskrævende. Denne løsning:
+## 📚 Projekter
 
-Registrerer Messenger-henvendelser i Manychat
+- [📘 Projekt 1 – RAG Chatbot](./rag-chatbot/)
+- [🗞️ Projekt 2 – AI-Nyhedsassistent](./ai-nyhedsassistent/)
+- [💬 Projekt 3 – Automatisk kundedialog](./manychat-automation/)
 
-Zapier kontrollerer ledige borde
-
-Automatisk svar gives – uden personaleindblanding
-
-⚙️ Workflow
-Gæsten skriver: “Vi vil gerne reservere bord”
-
-Manychat spørger: “Hvornår og hvor mange?”
-
-Zapier checker plads → svar gives automatisk
-
-Gæsten bekræftes og logges
-
-✅ Relevans for Søstrene Grene
-Automatiserer kundehenvendelser om f.eks. Click & Collect, lagerstatus
-
-Hurtig, personlig og “søsterlig” oplevelse
-
-Skalerbart til flere markeder og sprog
 
