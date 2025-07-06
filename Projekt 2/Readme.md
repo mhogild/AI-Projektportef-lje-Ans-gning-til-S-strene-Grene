@@ -1,6 +1,6 @@
-## 🗞️ Projekt 2 – Personlig AI-Nyhedsassistent
+# 🗞️ Projekt 2 – Personlig AI-Nyhedsassistent
 
-### 🔍 Forretningscase
+## 🔍 Forretningscase
 
 Automatiseret nyhedsindsamling og daglig personaliseret opsummering.
 
@@ -12,7 +12,7 @@ På den måde undgår brugeren at skulle undersøge adskillige sider og steder, 
 
 ---
 
-### 🎯 Relevans for Søstrene Grene
+## 🎯 Relevans for Søstrene Grene
 
 Denne AI-drevne løsning leverer:
 
