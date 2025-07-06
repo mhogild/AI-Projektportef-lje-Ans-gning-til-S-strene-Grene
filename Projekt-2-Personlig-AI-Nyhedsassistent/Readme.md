@@ -21,7 +21,7 @@ Denne AI-drevne løsning leverer:
 
 ## Zapier projekt (Zap a):
 Følgende er en kort forklaring af automationen
-![Zapier Flow – Zap A](./Projekt%202%20-%20Personlig%20AI-Nyhedsassistent/zap_a_flow.png)
+![Zapier Flow – Zap A](./Projekt-2-Personlig-AI-Nyhedsassistent/zap_a_flow.png)
 
 | Trin | Værktøj                 | Funktion                                                         |
 | ---- | ----------------------- | ---------------------------------------------------------------- |
