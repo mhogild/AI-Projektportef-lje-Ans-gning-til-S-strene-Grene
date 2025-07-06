@@ -21,9 +21,11 @@ Denne AI-drevne løsning leverer:
 
 ## Zapier projekt (Zap a):
 Følgende er en kort forklaring af automationen
+![Zapier Flow – Zap A](./Projekt 2 – Personlig AI-Nyhedsassistent/zap_a_low.png)
+
 | Trin | Værktøj                 | Funktion                                                         |
 | ---- | ----------------------- | ---------------------------------------------------------------- |
 | 1    | **RSS by Zapier**       | Overvåger flere RSS-feeds for nye AI-relaterede artikler.        |
 | 2    | **Formatter by Zapier** | Formaterer og gemmer dagens dato.                                |
 | 3    | **Google Sheets**       | Lagrer nyhederne (titel, beskrivelse, link, dato) i et regneark. |
-![Zapier Flow – Zap A](./ai-nyhedsassistent/zap_a_flow.png)
+
