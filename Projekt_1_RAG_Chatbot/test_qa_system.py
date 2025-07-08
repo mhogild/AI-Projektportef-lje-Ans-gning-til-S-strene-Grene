@@ -35,5 +35,12 @@ while True:
     print("\n💬 Svar:\n", result['result'])
 
     print("\n📄 Kilder:")
-    for doc in result['source_documents']:
-        print(f" - {doc.metadata.get('source')} | ...{doc.page_content[:100]}...\n")
+    for idx, doc in enumerate(result['source_documents'], 1):
+        title = doc.metadata.get("title", "Ukendt afsnit")
+        page = doc.metadata.get("page", "ukendt")
+        snippet = doc.page_content.strip().replace("\n", " ")
+        short_quote = snippet[:40] + ("…" if len(snippet) > 40 else "")
+
+        print(f"- Kilde {idx}")
+        print(f"{title} (side: {page})")
+        print(f"{short_quote}\n")
