@@ -11,7 +11,7 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 os.environ["OPENAI_API_KEY"] = "XX" #Skjult - Du skal være velkommen til at spørge efter API hvis du gerne vil teste den :)
 
 # === 1. Load markdown content ===
-with open("test_pdf/test_carlsberg_key_figures.md", "r", encoding="utf-8") as file:
+with open("Projekt_1_RAG_Chatbot/test_pdf/test_carlsberg_key_figures.md", "r", encoding="utf-8") as file:
     md_text = file.read()
 
 # === 2. Find alle markdown-tabeller ===
@@ -38,7 +38,7 @@ all_docs = text_docs + table_docs
 
 # === 6. Embed og gem i Chroma ===
 embedding = OpenAIEmbeddings()
-vectorstore = Chroma.from_documents(all_docs, embedding, persist_directory="./chroma_test1")
+vectorstore = Chroma.from_documents(all_docs, embedding, persist_directory="./Projekt_1_RAG_Chatbot/chroma_test")
 vectorstore.persist()
 
 print("✅ Embedding færdig. Klar til spørgsmål!")
