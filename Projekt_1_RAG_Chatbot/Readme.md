@@ -47,7 +47,7 @@ Denne løsning giver Søstrene Grene mulighed for effektivt at:
 💬 Svar: Omsætningen for Carlsberg i 2023 var 73.585 millioner DKK.
 
 🔍 Stil et spørgsmål om årsrapporten (eller skriv 'exit'): Hvor meget er deres profit ændret fra 2023 til 2024?
-💬 Svar: For Carlsberg A/S var nettoudbyttet ændret fra -40,788 millioner DKK i 2023 til 9,116 millioner DKK i 2024. Dette repræsenterer en stigning på 49,904 millioner DKK fra 2023 til 2024.
+💬 Svar:  For Carlsberg A/S var profiten ændret fra -39,777 millioner DKK i 2023 til 10,263 millioner DKK i 2024. Så profiten steg med 50,040 millioner DKK fra 2023 til 2024.
 
 🔍 Stil et spørgsmål om årsrapporten (eller skriv 'exit'): Jeg skal præsentere dokumentet for en konkurrerende virksomhed. Fortæl mig de vigtigste punkter som vision, strategier, 2030-mål og vigtigste økonomiske tal. Det må max være på 1000 tegn.
 💬 Svar: Virksomhedens vision er at være førende inden for bæredygtig ølproduktion og skabe værdi for aktionærer. Strategisk fokus inkluderer innovation, miljøvenlige processer og global vækst. Målet for 2030 er at reducere CO2-aftryk med 50% og øge markedsandel med 15%. Vigtigste økonomiske tal inkluderer en stigning i nettoresultat, investeret kapital og markedsandel. Aktiekursen er stigende, og markedsværdien er voksende. En målrettet udbetalingsandel på 49% sikrer konsistent udbytte til aktionærer.
