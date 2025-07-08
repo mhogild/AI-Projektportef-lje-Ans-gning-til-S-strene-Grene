@@ -36,8 +36,4 @@ while True:
 
     print("\n📄 Kilder:")
     for doc in result['source_documents']:
-        title = doc.metadata.get("title", "Ukendt afsnit")
-        page = doc.metadata.get("page", "ukendt side")
-        source = doc.metadata.get("source", "ukendt kilde")
-        snippet = doc.page_content.strip().replace("\n", " ")[:300]
-        print(f" - 🔹 *{title}* (side: {page}, kilde: {source})\n   📝 \"{snippet}...\"\n")
+        print(f" - {doc.metadata.get('source')} | ...{doc.page_content[:100]}...\n")
