@@ -9,7 +9,7 @@ os.environ["OPENAI_API_KEY"] = "XX" #Skjult - Du skal v√¶re velkommen til at sp√
 
 # 1. Load gemte embeddings fra Chroma
 vectorstore = Chroma(
-    persist_directory="./chroma_test1",
+    persist_directory="./Projekt_1_RAG_Chatbot/chroma_test",
     embedding_function=OpenAIEmbeddings()
 )
 
